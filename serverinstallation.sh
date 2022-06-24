@@ -1,4 +1,3 @@
-#!/bin/bash
 mkdir server
 cd server
 code Vagrantfile
