@@ -1,0 +1,15 @@
+create a directory
+cd into directory
+create a script usind code file.sh (ex code sonarqube.sh)
+paste script and save
+ls (to confirm script creation)
+if mistake was made while creation file name, do: mv old file nae new file name
+git init
+git add .
+git commit -m "script"
+now go into github and create a new repository
+copy github link and paste into terminal then press enter
+to verify link type: git remote -v
+git branch -M main
+git push -u origin main
+done finally refrsh your gibhub account to see changes
